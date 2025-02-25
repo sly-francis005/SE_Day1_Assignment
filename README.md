@@ -1,3 +1,4 @@
+SE_Day1_Assignment
 https://github.com/sly-francis005/SE_Day1_Assignment/tree/main
 Part 1: Introduction to Software Engineering
 
@@ -23,8 +24,7 @@ coding - converting software design into tangible code.
  
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility,
- changes are hard to incorporate once a phase is complete.
+- there is Low flexibility,changes are hard to incorporate once a phase is complete.
  - Customer feedback comes late, after the product is developed.
  - Testing is done at the end of the development process.
 
@@ -74,15 +74,15 @@ Error Recovery: Allows reverting to previous versions if new changes introduce e
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 -rapid technological advancement places considerable pressure on software engineers to stay current.
  Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
-Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
+-Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
  Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
 -Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
  Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
-Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
+-Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
 Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
-Software Security - Programming secure software is a complex and challenging task. 
+-Software Security - Programming secure software is a complex and challenging task. 
 Solution: research ways to defend against hacking, malware, phishing, insider and third-party threats
-Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
+-Software Accessibility and Usability - Overly complex software can frustrate or confuse users. 
 Solution: Use scalable architecture, Emphasize reliability.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -98,13 +98,11 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 Define prompt engineering and discuss its importance in interacting with AI models.
  prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
-Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
-Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
-developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
-
+-Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
+-Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
+-developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models.
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Draw a picture of a person
-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
+-Draw a picture of a person-Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
 Clarity: The improved prompt specifies what is being asked (a full-body portrait) rather than just a "person.
 Specific Details: Describing the woman's appearance (long brown hair, red jacket, blue jeans) and the setting (park, sunny day, trees, grass) gives clear guidance on the image to be created.
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
