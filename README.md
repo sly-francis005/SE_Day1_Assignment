@@ -1,3 +1,4 @@
+https://github.com/sly-francis005/SE_Day1_Assignment/tree/main
 Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry
@@ -5,9 +6,8 @@ software engineering is a branch of computer science used for developing, testin
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
- security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
-
-
+ security - implement protection practice like authentication, authorization and encryption to secure users information. 
+ 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
 .mastering complexity
 Mastering process
@@ -20,6 +20,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 design - building the framework. 
 coding - converting software design into tangible code.
  testing - examine the software for any bugs and glitches
+ 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
@@ -54,12 +55,13 @@ Project Manager - assembles and lead the software development team.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
-Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
-An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
-an IDE can make suggestions to complete a code statement when the developer begins typing.
-IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
-An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
-The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
+-Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
+-An IDE can format the written text by automatically making some words bold or italic, or by using different font colors. These visual cues make the source code more readable and give instant feedback about accidental syntax errors.
+-An IDE can make suggestions to complete a code statement when the developer begins typing.
+-IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
+-An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
+-The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
+
 Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
@@ -108,4 +110,3 @@ Specific Details: Describing the woman's appearance (long brown hair, red jacket
 Concise: The additional details provide a clear picture without being overly complicated, making it easier for the artist to understand exactly what is needed.
 
 
-# SE_Day1_Assignment
